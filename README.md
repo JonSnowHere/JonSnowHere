@@ -1,4 +1,5 @@
-# 🚀 Hey There, Im jon  — SOC Analyst & Ethical Hacker
+# 🚀 Hey , I'm jon ![Uploading JonSnowSmilingGotGIF.gif…]()
+  — SOC Analyst & Ethical Hacker
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/your-profile)
 [![Portfolio Website](https://img.shields.io/badge/Portfolio-Visit-brightgreen)](https://your-website-link)
