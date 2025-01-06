@@ -4,6 +4,7 @@
 [![Portfolio Website](https://img.shields.io/badge/Portfolio-Visit-brightgreen)](https://your-website-link)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:your-email@example.com)
 
-![Uploading GameOfGIF.gif…]()
+![Uploading GameOfGIF.gif…]()   
+
 Passionate about cybersecurity, vulnerability assessment, and penetration testing. My expertise includes VAPT, network security, and web application defense.
 Defend the wall...
