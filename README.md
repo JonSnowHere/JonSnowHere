@@ -40,3 +40,37 @@ A comprehensive guide to setting up and using ILSpy on Kali Linux.
 
 - **Focus:** Reverse engineering .NET binaries on Linux systems.
 - **Tools:** ILSpy, Wine.
+
+## 🛠 Skills
+
+**Cybersecurity:**
+- Vulnerability Assessment and Penetration Testing (VAPT)
+- Incident Response & Threat Analysis
+- SOC Tools: SIEM (Splunk, QRadar), IDS/IPS
+
+**Technical:**
+- Programming: Python, Bash, PowerShell
+- Tools: Metasploit, Burp Suite, Nmap, Wireshark
+- Platforms: Hack The Box, TryHackMe
+
+---
+
+## 🎓 Certifications
+- **Certified Ethical Hacker (CEH v12)**
+- **CompTIA CySA+ (In Progress)**
+- [Other relevant certifications or achievements]
+
+
+## ✍️ Blog Posts & Resources
+
+I share cybersecurity tips, tools, and writeups on my WordPress website: [My Blog](https://your-wordpress-site.com).
+
+- **[SQL Injection Exploitation in Depth](https://your-blog-link)**
+- **[Greenhorn HTB Writeup](https://your-blog-link)**
+- **[Practical SOC Analyst Skills](https://your-blog-link)**
+
+
+## 📫 Contact Me
+- **Email:** [your-email@example.com](mailto:your-email@example.com)
+- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- **Portfolio:** [your-portfolio-site.com](https://your-portfolio-site.com)
