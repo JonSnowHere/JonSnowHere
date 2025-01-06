@@ -9,3 +9,9 @@ Defend the wall...
 
 ![Uploading JonSnowSmilingGotGIF.gif…]()
 
+## 👨‍💻 About Me
+I'm a CEH v12-certified cybersecurity professional with experience in SOC analysis, ethical hacking, and secure software practices. I love exploring Hack The Box, TryHackMe, and other platforms to enhance my skills. Recently, I've launched a free WordPress site to share my learning journey.
+
+- 🌱 Currently expanding my skills with **CompTIA CySA+** and exploring advanced **network defense strategies**.
+- 🛠️ Frequently working on real-world challenges in **Hack The Box** and **TryHackMe**.
+- 💡 Interested in **Web Application Security** and **Incident Response**.
