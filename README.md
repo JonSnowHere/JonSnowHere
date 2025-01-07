@@ -68,7 +68,7 @@ I'm  **Jon**,  a Certified Ethical Hacker, SOC Analyst, Bug Hunter, and Security
 | **Project**      | **Description**                                                                                  |
 |-------------------|--------------------------------------------------------------------------------------------------|
 | **[Home-SIEM-Lab](https://github.com/JonSnowHere/Home-SIEM-Lab)**    | This repo for a demo to home siem lab |
-| **[Project 2](https://github.com/)**    | Short Description |
+| **[Password-complexity-Analyzer](https://github.com/)**    | Short Description |
 
 
 ---
