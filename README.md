@@ -1,75 +1,75 @@
-# ⚔️ Hey I'm Jon  — Cybersecurity Analyst & Ethical Hacker
+## Hi there 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/your-profile)
-[![Portfolio Website](https://img.shields.io/badge/Portfolio-Visit-brightgreen)](https://your-website-link)
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:your-email@example.com)
+I'm **[`Jon`]**, a Certified Ethical Hacker, Bug Hunter, and Security Researcher. With expertise in vulnerability assessment and ethical hacking, I create content on cybersecurity, bug bounties, and hacking tips. My goal is to educate, inspire, and contribute to a safer digital world.
 
-Passionate about cybersecurity, vulnerability assessment, and penetration testing. My expertise includes VAPT, network security, and web application defense.
-Defend the wall...
+<a href="https://linkedin.com/scratch"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
+<details>
+  <summary>More about me</summary>
 
-## 👨‍💻 About Me
-I'm a CEH v12-certified cybersecurity professional with experience in SOC analysis, ethical hacking, and secure software practices. I love exploring Hack The Box, TryHackMe, and other platforms to enhance my skills. Recently, I've launched a free WordPress site to share my learning journey.
+- **Name**: Scratch
+- **From**: India
+- **Bug Hunter** | **Security Researcher** | **Freelance Penetration Tester**
+- I have experience in bug hunting, vulnerability assessment, penetration testing, and social engineering.
+- Continuously improving my knowledge of **Website Vulnerabilities** and **Cybersecurity Skills**.
+- I’m currently learning and exploring **advanced hacking techniques**, **networking**, and **cybersecurity certifications**.
 
-- 🌱 Currently expanding my skills with **CompTIA CySA+** and exploring advanced **network defense strategies**.
-- 🛠️ Frequently working on real-world challenges in **Hack The Box** and **TryHackMe**.
-- 💡 Interested in **Web Application Security** and **Incident Response**.
-
-
-## 🌟 Featured Projects
-
-### [🔐 Web Application Pentesting Toolkit](https://github.com/your-username/web-pentesting-toolkit)
-A toolkit designed for automating reconnaissance and pentesting tasks. Built with Python and Bash scripting.
-
-- **Key Features:** SQL injection detection, XSS scanning, SSTI exploitation.
-- **Tools:** Python, Burp Suite APIs, `curl`.
+</details>
+<br>
 
 ---
 
-### [🛡️ SOC Dashboard](https://github.com/your-username/soc-dashboard)
-An interactive SOC analyst dashboard for monitoring threats and analyzing logs.
+<h2 id="knowledge_skills" align=''> Knowledge & Skills </h2>
 
-- **Key Features:** Log parsing, real-time alerts, threat visualization.
-- **Tools:** Splunk, Elasticsearch, Python.
+<br>
+
+<div style="border: 2px solid #22F700; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
+  <div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+      <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&color=000000" alt="Burp Suite" />
+      <img src="https://img.shields.io/badge/Metasploit-008C8C?style=for-the-badge&logo=metasploit&color=000000" alt="Metasploit" />
+      <img src="https://img.shields.io/badge/Wireshark-009639?style=for-the-badge&logo=wireshark&color=000000" alt="Wireshark" />
+      <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&color=000000" alt="Bash" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&color=000000" alt="Python" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&color=000000" alt="Linux" />
+      <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&color=000000" alt="Go" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&color=000000" alt="Git" />
+      <img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&color=000000" alt="Debian" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&color=000000" alt="Docker" />
+      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&color=000000" alt="C" />
+      <img src="https://img.shields.io/badge/C%2B%2B-F34B7F?style=for-the-badge&logo=c%2B%2B&color=000000" alt="C++" />
+      <img src="https://img.shields.io/badge/HTML5-5D4B6C?style=for-the-badge&logo=html5&color=000000" alt="HTML5" />
+      <img src="https://img.shields.io/badge/CSS3-2965F1?style=for-the-badge&logo=css3&color=000000" alt="CSS3" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&color=000000" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/BlackArch-0A0A0A?style=for-the-badge&logo=blackarch&color=000000" alt="BlackArch" />
+      <img src="https://img.shields.io/badge/Parrot_OS-2E8E8F?style=for-the-badge&logo=parrot&color=000000" alt="Parrot OS" />
+      <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&color=000000" alt="Ubuntu" />
+      <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&color=000000" alt="Kali Linux" />
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&color=000000" alt="VS Code" />
+      <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&color=000000" alt="Java" />
+
+
+  </div>
+</div>
+
+---
+<h2 id="Certifications" align=''> Certifications </h2>
+
+<div>
+<img src="https://img.shields.io/badge/OSCP-Certified-red?style=for-the-badge&color=000000" alt="OSCP Certification" />
+<img src="https://img.shields.io/badge/CompTIA_Security%2B-Certified-red?style=for-the-badge&color=000000" alt="CompTIA Security+ Certification" />
+<img src="https://img.shields.io/badge/CEH-Certified_Ethical_Hacker-blue?style=for-the-badge&logo=ec-council&color=000000" alt="CEH Certification" />
+
+</div>
 
 ---
 
-### [⚙️ ILSpy on Kali Linux Guide](https://github.com/your-username/ilspy-kali-guide)
-A comprehensive guide to setting up and using ILSpy on Kali Linux.
+<h2 id="Projects" align=''> Projects </h2>
 
-- **Focus:** Reverse engineering .NET binaries on Linux systems.
-- **Tools:** ILSpy, Wine.
 
-## 🛠 Skills
-
-**Cybersecurity:**
-- Vulnerability Assessment and Penetration Testing (VAPT)
-- Incident Response & Threat Analysis
-- SOC Tools: SIEM (Splunk, QRadar), IDS/IPS
-
-**Technical:**
-- Programming: Python, Bash, PowerShell
-- Tools: Metasploit, Burp Suite, Nmap, Wireshark
-- Platforms: Hack The Box, TryHackMe
+| **Project**      | **Description**                                                                                  |
+|-------------------|--------------------------------------------------------------------------------------------------|
+| **[Project 1](https://github.com/)**    | Short Description |
+| **[Project 2](https://github.com/)**    | Short Description |
+| **[Project 3](https://github.com/)**    | Short Description | 
 
 ---
-
-## 🎓 Certifications
-- **Certified Ethical Hacker (CEH v12)**
-- **CompTIA CySA+ (In Progress)**
-- [Other relevant certifications or achievements]
-
-
-## ✍️ Blog Posts & Resources
-
-I share cybersecurity tips, tools, and writeups on my WordPress website: [My Blog](https://your-wordpress-site.com).
-
-- **[SQL Injection Exploitation in Depth](https://your-blog-link)**
-- **[Greenhorn HTB Writeup](https://your-blog-link)**
-- **[Practical SOC Analyst Skills](https://your-blog-link)**
-
-
-## 📫 Contact Me
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- **Portfolio:** [your-portfolio-site.com](https://your-portfolio-site.com)
