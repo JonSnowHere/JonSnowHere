@@ -7,7 +7,6 @@
 Passionate about cybersecurity, vulnerability assessment, and penetration testing. My expertise includes VAPT, network security, and web application defense.
 Defend the wall...
 
-![Uploading JonSnowSmilingGotGIF.gif…]()
 
 ## 👨‍💻 About Me
 I'm a CEH v12-certified cybersecurity professional with experience in SOC analysis, ethical hacking, and secure software practices. I love exploring Hack The Box, TryHackMe, and other platforms to enhance my skills. Recently, I've launched a free WordPress site to share my learning journey.
