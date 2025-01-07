@@ -1,15 +1,15 @@
 ## Hi there 👋
 
-I'm **[`Jon`]**, a Certified Ethical Hacker, Bug Hunter, and Security Researcher. With expertise in vulnerability assessment and ethical hacking, I create content on cybersecurity, bug bounties, and hacking tips. My goal is to educate, inspire, and contribute to a safer digital world.
+I'm  **Jon**,  a Certified Ethical Hacker, SOC Analyst, Bug Hunter, and Security Researcher. With expertise in vulnerability assessment and ethical hacking, I'm doing blogs on cybersecurity, bug bounties, and hacking tips. My goal is to educate, inspire, and contribute to a safer digital world.
 
 <a href="https://linkedin.com/scratch"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <details>
   <summary>More about me</summary>
 
-- **Name**: Scratch
+- **Name**: Jon
 - **From**: India
-- **Bug Hunter** | **Security Researcher** | **Freelance Penetration Tester**
+- **SOC Analyst** | **Security Researcher** | **Bug Bounty Hunter**
 - I have experience in bug hunting, vulnerability assessment, penetration testing, and social engineering.
 - Continuously improving my knowledge of **Website Vulnerabilities** and **Cybersecurity Skills**.
 - I’m currently learning and exploring **advanced hacking techniques**, **networking**, and **cybersecurity certifications**.
@@ -55,7 +55,6 @@ I'm **[`Jon`]**, a Certified Ethical Hacker, Bug Hunter, and Security Researcher
 <h2 id="Certifications" align=''> Certifications </h2>
 
 <div>
-<img src="https://img.shields.io/badge/OSCP-Certified-red?style=for-the-badge&color=000000" alt="OSCP Certification" />
 <img src="https://img.shields.io/badge/CompTIA_Security%2B-Certified-red?style=for-the-badge&color=000000" alt="CompTIA Security+ Certification" />
 <img src="https://img.shields.io/badge/CEH-Certified_Ethical_Hacker-blue?style=for-the-badge&logo=ec-council&color=000000" alt="CEH Certification" />
 
