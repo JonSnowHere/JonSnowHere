@@ -31,7 +31,7 @@ I'm  **Jon**,  a Certified Ethical Hacker, SOC Analyst, Bug Hunter, and Security
       <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&color=000000" alt="Bash" />
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&color=000000" alt="Python" />
       <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&color=000000" alt="Linux" />
-      <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&color=000000" alt="Go" />
+      <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&color=black" alt="Splunk" />
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&color=000000" alt="Git" />
       <img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&color=000000" alt="Debian" />
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&color=000000" alt="Docker" />
