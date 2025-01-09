@@ -39,6 +39,7 @@ I'm  **Jon**,  a Certified Ethical Hacker, SOC Analyst, Bug Hunter, and Security
       <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&color=000000" alt="Ubuntu" />
       <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&color=000000" alt="Kali Linux" />
       <img src="https://img.shields.io/badge/PortSwigger%20Labs-FF7139?style=for-the-badge&logo=PortSwigger&color=000000" alt="PortSwigger Labs" />
+      <img src="https://img.shields.io/badge/Nmap-0078D7?style=for-the-badge&logo=nmap&color=000000" alt="Nmap" />
 
 
   </div>
