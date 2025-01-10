@@ -67,13 +67,12 @@ The Home SIEM Lab is a personal cybersecurity project designed to simulate a rea
 
 Key Features:
 
-Centralized Log Collection: Collect logs from multiple devices such as firewalls, servers, endpoints, and network devices.
-Real-time Threat Detection: Implement automated detection rules for suspicious activities using tools like Elasticsearch, Kibana, and Logstash (ELK stack), Splunk, or Graylog.
-Incident Response Simulation: Conduct incident analysis and simulate response workflows to improve readiness for real-world threats.
-Custom Use Cases: Develop custom alerting and reporting mechanisms for specific scenarios, such as brute-force attacks, malware detection, and privilege escalation.
+Centralized Log Collection: Collect logs from multiple devices such as firewalls, servers, endpoints, and network devices.Real-time Threat Detection: Implement automated detection rules for suspicious activities using tools like Elasticsearch, Kibana, and Logstash (ELK stack), Splunk, or Graylog.Incident Response Simulation: Conduct incident analysis and simulate response workflows to improve readiness for real-world threats.Custom Use Cases: Develop custom alerting and reporting mechanisms for specific scenarios, such as brute-force attacks, malware detection, and privilege escalation.
 Integration with Open Source Tools: Integrate tools like Wazuh for endpoint security, Suricata for intrusion detection, and Security Onion for advanced threat analysis.
 Learning & Documentation: A platform to enhance skills in log analysis, threat hunting, and SOC analyst operations while documenting configurations, insights, and improvements.
-The Home SIEM Lab project bridges the gap between theory and practice, empowering cybersecurity enthusiasts and professionals with the tools and techniques needed for modern threat detection and response. |
+The Home SIEM Lab project bridges the gap between theory and practice, empowering cybersecurity enthusiasts and professionals with the tools and techniques needed for modern threat detection and response.
+
+
 | **[Password-complexity-Analyzer](https://github.com/JonSnowHere/Password-complexity-Analyzer)**    | This repo is or analyze the complexity o Passwords |
 
 
