@@ -85,5 +85,4 @@ Security Scoring: Generates a score to quantify password strength.
 User-Friendly Interface: Easy-to-use design suitable for individuals and organizations.
 |
 
-
 ---
