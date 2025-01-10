@@ -75,9 +75,9 @@ The Home SIEM Lab project bridges the gap between theory and practice, empowerin
 
 | **[Password-complexity-Analyzer](https://github.com/JonSnowHere/Password-complexity-Analyzer)**    |The Password Complexity Analyzer is a powerful tool designed to assess the strength and complexity of user passwords. It evaluates passwords against a range of criteria such as length, use of uppercase and lowercase letters, inclusion of numbers, special characters, and avoidance of common patterns or dictionary words. The tool provides detailed feedback and recommendations to enhance password security, ensuring better protection against brute force, dictionary, and other password-based attacks. Ideal for individuals, organizations, or cybersecurity enthusiasts, this analyzer aims to promote robust password practices in the digital world. 
 
-Key Features of Password Complexity Analyzer:
+**Key Features of Password Complexity Analyzer:**
 
-**Strength Assessment:** Analyzes password strength based on length, character variety, and patterns.
+Strength Assessment: Analyzes password strength based on length, character variety, and patterns.
 Customizable Rules: Supports customizable complexity rules for specific security needs.
 Real-Time Feedback: Provides instant feedback and improvement suggestions.
 Dictionary Attack Prevention: Detects and flags common dictionary words and weak patterns.
