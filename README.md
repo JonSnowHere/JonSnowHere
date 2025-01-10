@@ -62,7 +62,18 @@ I'm  **Jon**,  a Certified Ethical Hacker, SOC Analyst, Bug Hunter, and Security
 
 | **Project**      | **Description**                                                                                  |
 |-------------------|--------------------------------------------------------------------------------------------------|
-| **[Home-SIEM-Lab](https://github.com/JonSnowHere/Home-SIEM-Lab)**    | This repo for a demo to home siem lab |
+| **[Home-SIEM-Lab](https://github.com/JonSnowHere/Home-SIEM-Lab)**    | This repo is for Home SIEM Lab
+The Home SIEM Lab is a personal cybersecurity project designed to simulate a real-world Security Information and Event Management (SIEM) environment. This lab provides hands-on experience in monitoring, analyzing, and responding to security events, making it an ideal setup for professionals and enthusiasts seeking practical knowledge in SOC operations.
+
+Key Features:
+
+Centralized Log Collection: Collect logs from multiple devices such as firewalls, servers, endpoints, and network devices.
+Real-time Threat Detection: Implement automated detection rules for suspicious activities using tools like Elasticsearch, Kibana, and Logstash (ELK stack), Splunk, or Graylog.
+Incident Response Simulation: Conduct incident analysis and simulate response workflows to improve readiness for real-world threats.
+Custom Use Cases: Develop custom alerting and reporting mechanisms for specific scenarios, such as brute-force attacks, malware detection, and privilege escalation.
+Integration with Open Source Tools: Integrate tools like Wazuh for endpoint security, Suricata for intrusion detection, and Security Onion for advanced threat analysis.
+Learning & Documentation: A platform to enhance skills in log analysis, threat hunting, and SOC analyst operations while documenting configurations, insights, and improvements.
+The Home SIEM Lab project bridges the gap between theory and practice, empowering cybersecurity enthusiasts and professionals with the tools and techniques needed for modern threat detection and response. |
 | **[Password-complexity-Analyzer](https://github.com/JonSnowHere/Password-complexity-Analyzer)**    | This repo is or analyze the complexity o Passwords |
 
 
