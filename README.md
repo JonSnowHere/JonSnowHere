@@ -60,9 +60,12 @@ I'm  **Jon**,  a Certified Ethical Hacker, SOC Analyst, Bug Hunter, and Security
 <h2 id="Projects" align=''> Projects </h2>
 
 
-| **Project**      | **Description**                                                                                  |
-|-------------------|--------------------------------------------------------------------------------------------------|
-| **[Home-SIEM-Lab](https://github.com/JonSnowHere/Home-SIEM-Lab)**
+| **Project**      |
+|------------------|
+| **[Home-SIEM-Lab](https://github.com/JonSnowHere/Home-SIEM-Lab)** |
+
+| **Description** |
+|--------------------------------------------------------------------------------------------------|
 
 The Home SIEM Lab is a personal cybersecurity project designed to simulate a real-world Security Information and Event Management (SIEM) environment. This lab provides hands-on experience in monitoring, analyzing, and responding to security events, making it an ideal setup for professionals and enthusiasts seeking practical knowledge in SOC operations.
 
