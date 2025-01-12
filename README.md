@@ -72,7 +72,8 @@ Integration with Open Source Tools: Integrate tools like Wazuh for endpoint secu
 Learning & Documentation: A platform to enhance skills in log analysis, threat hunting, and SOC analyst operations while documenting configurations, insights, and improvements.
 The Home SIEM Lab project bridges the gap between theory and practice, empowering cybersecurity enthusiasts and professionals with the tools and techniques needed for modern threat detection and response.
 
-
+| **Project**      | **Description**                                                                                  |
+|-------------------|--------------------------------------------------------------------------------------------------|
 
 **[Password-complexity-Analyzer](https://github.com/JonSnowHere/Password-complexity-Analyzer)**    |The Password Complexity Analyzer is a powerful tool designed to assess the strength and complexity of user passwords. It evaluates passwords against a range of criteria such as length, use of uppercase and lowercase letters, inclusion of numbers, special characters, and avoidance of common patterns or dictionary words. The tool provides detailed feedback and recommendations to enhance password security, ensuring better protection against brute force, dictionary, and other password-based attacks. Ideal for individuals, organizations, or cybersecurity enthusiasts, this analyzer aims to promote robust password practices in the digital world. 
 
