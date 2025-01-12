@@ -73,9 +73,8 @@ Learning & Documentation: A platform to enhance skills in log analysis, threat h
 The Home SIEM Lab project bridges the gap between theory and practice, empowering cybersecurity enthusiasts and professionals with the tools and techniques needed for modern threat detection and response.
 
 | **Project**      |                                                                                  |
-|-------------------|
 
-**[Password-complexity-Analyzer](https://github.com/JonSnowHere/Password-complexity-Analyzer)**    
+| **[Password-complexity-Analyzer](https://github.com/JonSnowHere/Password-complexity-Analyzer)**  |  
 
 | **Description**  |
 |--------------------------------------------------------------------------------------------------|
