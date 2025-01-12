@@ -72,8 +72,8 @@ Integration with Open Source Tools: Integrate tools like Wazuh for endpoint secu
 Learning & Documentation: A platform to enhance skills in log analysis, threat hunting, and SOC analyst operations while documenting configurations, insights, and improvements.
 The Home SIEM Lab project bridges the gap between theory and practice, empowering cybersecurity enthusiasts and professionals with the tools and techniques needed for modern threat detection and response.
 
-| **Project**      |                                                                                  |
-
+| **Project**      |
+|------------------|
 | **[Password-complexity-Analyzer](https://github.com/JonSnowHere/Password-complexity-Analyzer)**  |  
 
 | **Description**  |
