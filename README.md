@@ -77,7 +77,7 @@ The Home SIEM Lab project bridges the gap between theory and practice, empowerin
 
 | **Project**      |
 |------------------|
-| **[Password-complexity-Analyzer](https://github.com/JonSnowHere/Password-complexity-Analyzer)**  |  
+| **[Password-complexity-Analyzer](https://github.com/JonSnowHere/Password-complexity-analysis-tool.git)**  |  
 
 | **Description**  |
 |--------------------------------------------------------------------------------------------------|
